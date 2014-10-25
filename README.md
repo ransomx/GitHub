@@ -1,4 +1,5 @@
-GitHub
+GitHub aplikační repozitář
 ======
 
-MyGit
+1) WebSocket klient - s přístupem na server
+
